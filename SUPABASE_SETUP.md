@@ -32,7 +32,7 @@
 
 1. В корне проекта создайте файл `.env.local`:
    ```bash
-   cp env.example .env.local
+   cp .env.example .env.local
    ```
 
 2. Откройте `.env.local` и заполните переменные:

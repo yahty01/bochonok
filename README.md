@@ -40,7 +40,7 @@ npm install
 Создайте файл `.env.local` в корне проекта:
 
 ```bash
-cp env.example .env.local
+cp .env.example .env.local
 ```
 
 Заполните переменные окружения:
